@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "951320620964",
+    "firebase_url": "https://gg-proj-89de1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gg-proj-89de1",
+    "storage_bucket": "gg-proj-89de1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951320620964:android:a57c025ec6840eba99db31",
+        "android_client_info": {
+          "package_name": "com.gg.gg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7cwWstrL41rmsmUr1h2zLFcUrEX8IfxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
